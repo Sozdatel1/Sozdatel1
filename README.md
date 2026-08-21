@@ -2,7 +2,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=Sozdatel1&locale=ru&timezone=MSK)](https://git.io/streak-stats)
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Sozdatel1&locale=ru&timezone=MSK" alt="GitHub Streak" /></a>
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Sozdatel1)](https://github-stats-extended.vercel.app/api/top-langs?username=Sozdatel1)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Sozdatel1&hide_title=true&langs_count=3)](https://github-stats-extended.vercel.app/api/top-langs?username=Sozdatel1&hide_title=true&langs_count=3)
 <!--
 
 
