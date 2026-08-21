@@ -1,5 +1,6 @@
 ## Привет всем!👋
 [![GitHub Streak](https://streak-stats.demolab.com?user=Sozdatel1&locale=ru&timezone=MSK)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Sozdatel1&locale=ru&timezone=MSK" alt="GitHub Streak" /></a>
 <!--
 
 
