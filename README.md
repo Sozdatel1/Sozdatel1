@@ -1,7 +1,7 @@
 ## Привет всем!👋
 
 <!--
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Sozdatel1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Sozdatel1&locale=ru&timezone=MSK)](https://git.io/streak-stats)
 
 Here are some ideas to get you started:
 
