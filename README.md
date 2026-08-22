@@ -18,7 +18,7 @@
 
   ![Статистика](https://raw.githubusercontent.com/Sozdatel1/Sozdatel1/9f7673939ea528409a6579347a3f1e710f89d039/profile-3d-contrib/profile-green-animate.svg)
   
-  [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Sozdatel1&hide_title=true&langs_count=10)](https://github-stats-extended.vercel.app/api/top-langs?username=Sozdatel1&hide_title=true&langs_count=10)
+  
   [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=Sozdatel1&repo=Sozdatel1%2FTick-Task&description_lines_count=3)](https://github.com/Sozdatel1/Tick-Task)
   [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Sozdatel1&rank_icon=github&show_icons=true&include_all_commits=true)](https://github-stats-extended.vercel.app/api?username=Sozdatel1&rank_icon=github&show_icons=true&include_all_commits=true)
     
