@@ -1,21 +1,29 @@
 ## Привет всем!👋
+Меня зовут Капибара. Променял шахматы на скорость и легкость языка программирования Golang. Когда-то хороший шахматист, участвующий в турнирах, теперь занимается разработкой вместе с вами.
+
+----
+
 - 🔭 Сейчас я работаю над своим приложением Tisk-Task.
 - 🌱 Я учу языки программирования Go, Python и Kotlin.
+  
+<div align="center">
 
-<div style="display: flex; gap: 100px; align-items: center;">
+  ### Моя статистика
+  
+</div>
+
+
+#### Часто используемые языки
+<div style="display: flex; gap: 10px; align-items: center;">
  
   
   [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Sozdatel1&hide_title=true&langs_count=10)](https://github-stats-extended.vercel.app/api/top-langs?username=Sozdatel1&hide_title=true&langs_count=10)
-  <div>
-    
-    [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=Sozdatel1&repo=Sozdatel1%2FTick-Task&show_owner=true&description_lines_count=3)](https://github.com/Sozdatel1/Tick-Task)
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=Sozdatel1&repo=Sozdatel1%2FTick-Task&show_owner=true&description_lines_count=3)](https://github.com/Sozdatel1/Tick-Task)
+   
     [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Sozdatel1&rank_icon=github&show_icons=true&include_all_commits=true)](https://github-stats-extended.vercel.app/api?username=Sozdatel1&rank_icon=github&show_icons=true&include_all_commits=true)
     
   </div>
 
-
-  
-</div>
 
 
 
