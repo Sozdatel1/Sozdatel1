@@ -16,7 +16,7 @@
 
 <div style="display: flex; gap: 10px; align-items: center;">
 
-  ![Статистика](https://github.com/Sozdatel1/Sozdatel1/profile-3d-contrib/profile-green-animate.svg)
+  ![Статистика](https://github.com/Sozdatel1/Sozdatel1/blob/main/profile-3d-contrib/profile-green-animate.svg)
   
 
     
